@@ -1,0 +1,158 @@
+#forehead {
+    text-align: center;
+    padding: 20px;
+    height: 100px;
+    background-image: url('imgages/burger-wide.webp');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+      border: none;
+    border-radius: 20px;
+}
+
+#f1 {
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+    border: solid black;
+    border-radius: 10px;
+    height: 540px;
+    width: 300px;
+    display: inline-block;
+
+}
+
+#f1__image {
+    height: 400px;
+    width: 280px;
+    border: solid black;
+    border-radius: 20px;
+}
+
+#f1__but {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#f2 {
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+    border: solid black;
+    border-radius: 10px;
+    height: 540px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#f2__image {
+    height: 400px;
+    width: 280px;
+    border: solid black;
+    border-radius: 20px;
+}
+
+#f2__but {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#f3 {
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+    border: solid black;
+    border-radius: 10px;
+    height: 540px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#f3__image {
+    height: 400px;
+    width: 280px;
+    border: solid black;
+    border-radius: 20px;
+}
+
+#f3__but {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#f4 {
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+    border: solid black;
+    border-radius: 10px;
+    height: 540px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#f4__image {
+    height: 400px;
+    width: 280px;
+    border: solid black;
+    border-radius: 20px;
+}
+
+#f4__but {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#container {
+    align-content: center;
+    padding-left: 60px;
+}
+
+#leg {
+    padding-top: 10px;
+    margin-top: 10px;
+    background-image: url('imgages/burger-wide.webp');
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    color: white;
+    align-content: center;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+}
+
+#leg__content {
+    text-align: center;
+    padding-left: 640px;
+
+}
+
+#leg__send {
+    background-color: greenyellow;
+    color: black;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
